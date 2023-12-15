@@ -26,3 +26,6 @@ extensions/*/build
 
 # Node library SQLite database
 web/database.sqlite
+shopify.app.toml
+package-lock.json
+web/package-lock.json
