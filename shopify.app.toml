@@ -2,7 +2,7 @@
 
 name = "code-app"
 client_id = "aae6a8acb4b183df7af81d34cef21e46"
-application_url = "https://surface-keyboards-prepared-tin.trycloudflare.com"
+application_url = "https://tumor-cigarette-fp-keyboard.trycloudflare.com"
 embedded = true
 
 [access_scopes]
@@ -11,9 +11,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://surface-keyboards-prepared-tin.trycloudflare.com/auth/callback",
-  "https://surface-keyboards-prepared-tin.trycloudflare.com/auth/shopify/callback",
-  "https://surface-keyboards-prepared-tin.trycloudflare.com/api/auth/callback"
+  "https://tumor-cigarette-fp-keyboard.trycloudflare.com/auth/callback",
+  "https://tumor-cigarette-fp-keyboard.trycloudflare.com/auth/shopify/callback",
+  "https://tumor-cigarette-fp-keyboard.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
